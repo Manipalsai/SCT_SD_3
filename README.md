@@ -1,4 +1,4 @@
-#  SCT_SD_Task3
+#  SCT_SD_Task3 – Sudoku Solver
 
 This repository contains **Task 3** for my **Software Development Internship** at **SkillCraft Technology**.
 
